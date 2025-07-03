@@ -59,6 +59,7 @@ from .block import (
     ResNetLayer,
     SCDown,
     TorchVision,
+    GhostConv
 )
 from .conv import (
     CBAM,
